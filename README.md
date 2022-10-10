@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kanishk Sharma
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning data structure & algorithms
+- 📫 How to reach me -> kanishksharma3114@gmail.com
